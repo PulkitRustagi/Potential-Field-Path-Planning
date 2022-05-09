@@ -19,8 +19,13 @@ You can use a code editor of your choice, but I personally find **PyCharm** very
 3. Clone the repostory by pasting the following into the opened terminal:
     - `git clone "https://github.com/PulkitRustagi/Potential-Field-Path-Planning.git"`
 
-## What utput should look like:
+## What output should look like:
 The obstacle locations have been preset in the `main()` function which you can scroll to the bottomof the script and specify **(x,y)** for obstables:
 ![](https://github.com/PulkitRustagi/Potential-Field-Path-Planning/blob/main/obstacle_code_snapshot.png)
-upon execution you should get an animation such as shown below:
-![](https://github.com/PulkitRustagi/Potential-Field-Path-Planning/blob/main/potential-PathPlanning-2.gif)
+Upon execution you should get an animation such as shown below *(this is a different obstacle setting than shown above)*:
+
+<p align="center">
+  <img width="450" height="450" src="https://github.com/PulkitRustagi/Potential-Field-Path-Planning/blob/main/potential-PathPlanning-2.gif">
+</p>
+
+
