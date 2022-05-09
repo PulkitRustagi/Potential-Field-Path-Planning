@@ -4,7 +4,7 @@ Python code for Simulating a Potential Field based obstable avoidance and path p
 ### To setup:
 You can use a code editor of your choice, but I personally find **PyCharm** very user friendly and easy to use.
 
-### Steps to install **PyCharm**(Ubuntu):
+### Steps to install **PyCharm** (Ubuntu):
 1. Download the tarball .tar.gz from [Here](https://www.jetbrains.com/pycharm/download/#section=linux)
 2. Extract the tarball to a directory that supports file execution.For example, if the downloaded version is 1.17.7391, you can extract it to the recommended /opt directory using the following command:
     - `sudo tar -xzf jetbrains-toolbox-1.17.7391.tar.gz -C /`
